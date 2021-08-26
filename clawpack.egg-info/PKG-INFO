@@ -1,0 +1,35 @@
+Metadata-Version: 1.2
+Name: clawpack
+Version: 5.8.0
+Summary: Clawpack: Python-based Clawpack installer
+Home-page: http://www.clawpack.org
+Maintainer: Clawpack Developers
+Maintainer-email: claw-dev@googlegroups.com
+License: BSD
+Download-URL: https://github.com/clawpack/clawpack
+Description: This installer provides:
+        
+        * automated clawpack subpackage developer environment setup
+        * installation of Python modules from clawpack subpackages
+          in the clawpack.package namespace
+        
+        Please send an email to claw-dev@googlegroups.com for any general questions
+        or raise installation-related issues and pull requests to our GitHub repository:
+        
+        http://github.com/clawpack/clawpack
+        
+Platform: Linux
+Platform: Solaris
+Platform: Mac OS-X
+Platform: Unix
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved
+Classifier: Programming Language :: C
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development
+Classifier: Topic :: Scientific/Engineering
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS
